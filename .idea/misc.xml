@@ -4,8 +4,9 @@
     <option name="emacsPath" value="/usr/bin/emacs" />
   </component>
   <component name="EntryPointsManager">
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="org.apache.logging.log4j.core.config.plugins.Plugin" />
+      <item index="1" class="java.lang.String" itemvalue="org.apache.logging.log4j.core.config.plugins.PluginFactory" />
     </list>
   </component>
   <component name="MavenProjectsManager">
@@ -15,7 +16,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="15" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="16" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
